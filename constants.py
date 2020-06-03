@@ -1,0 +1,2 @@
+restaurants="restaurants"
+reservations="reservations"
